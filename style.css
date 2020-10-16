@@ -6,3 +6,13 @@
   img {
     display: none;
   }
+
+  #btnNext {
+    margin: 20px 5px;
+    padding: 10px 40px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background-color: #dcdcdc;
+  }
