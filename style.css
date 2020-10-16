@@ -16,3 +16,7 @@
     transition: all 0.3s ease;
     background-color: #dcdcdc;
   }
+
+  #btnNext:hover {
+    background-color: #909090;
+  }
